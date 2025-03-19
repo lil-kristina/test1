@@ -324,5 +324,4 @@ public class FirstSteps {
         boolean res21 = FirstSteps.isSortedDescendant(z21);
         System.out.println("21. Упорядочение по убыванию = "+res21);
     }  
-
 }
